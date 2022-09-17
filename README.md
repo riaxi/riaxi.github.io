@@ -1,3 +1,3 @@
-# hello
+# Greating
 hello world!
 my friend.
